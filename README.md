@@ -1,7 +1,7 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (capsule-render — reliable) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Utkarsh%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20%7C%20PHP%20%7C%20BBD%20University&descAlignY=57&descSize=15&descColor=a5c8ff&animation=fadeIn" />
 
-<!-- KEY BADGES — no profile-views (was broken) -->
+<!-- KEY BADGES (shields.io — always works) -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎓 B.Tech-BBD University-F97316?style=flat-square" />
   &nbsp;
@@ -12,13 +12,13 @@
 
 <br/>
 
-<!-- SOCIAL / CONTACT LINKS -->
+<!-- SOCIAL LINKS (shields.io badges — always works) -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-singh-487642257/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onepiece_0x/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usingh0811@gmail.com)
-[![Live Project](https://img.shields.io/badge/🌐%20Live%20Project-echoesofnow.in-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://echoesofnow.in)
+[![Live Project](https://img.shields.io/badge/🌐%20Live%20Project-echoesofnow.in-16A34A?style=for-the-badge)](https://echoesofnow.in)
 [![GitHub](https://img.shields.io/badge/GitHub-UksinghM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UksinghM)
 
 </div>
@@ -65,7 +65,7 @@ const utkarsh = {
 |:---:|:---|:---|
 | 🥇 | **UP Debate Champion** | 1st Place — All Over Uttar Pradesh Level Competition |
 | 🌐 | **Live Web Project** | Built & deployed **[echoesofnow.in](https://echoesofnow.in)** solo end-to-end |
-| 💼 | **Industry Experience** | 1+ year of real-world full stack web development |
+| 💼 | **Industry Experience** | 1+ year real-world full stack web development |
 | 🎓 | **B.Tech Graduate** | Computer Science — BBD University, Lucknow |
 
 </div>
@@ -106,36 +106,14 @@ const utkarsh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=UksinghM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UksinghM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UksinghM&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UksinghM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
----
-
 ## 🚀 What I'm Up To
 
 - 🔭 Shipping projects with **MERN Stack**
-- 🌐 My live project → **[echoesofnow.in](https://echoesofnow.in)**
+- 🌐 Live project → **[echoesofnow.in](https://echoesofnow.in)**
 - 🌱 Deep-diving into **React.js, Node.js & REST APIs**
 - 📊 Exploring **Data Analytics & Python**
 - 🏆 **UP-level Debate Champion** — representing BBD University
-- 📸 Follow me on Instagram → **[@onepiece_0x](https://www.instagram.com/onepiece_0x/)**
+- 📸 Follow me → **[@onepiece_0x](https://www.instagram.com/onepiece_0x/)** on Instagram
 - 🎵 Always vibing while coding
 
 ---
@@ -144,9 +122,9 @@ const utkarsh = {
 
 <div align="center">
 
-| Platform | Handle / Link |
+| Platform | Link |
 |:---:|:---|
-| 💼 LinkedIn | [utkarsh-singh-487642257](https://www.linkedin.com/in/utkarsh-singh-487642257/) |
+| 💼 LinkedIn | [linkedin.com/in/utkarsh-singh-487642257](https://www.linkedin.com/in/utkarsh-singh-487642257/) |
 | 📸 Instagram | [@onepiece_0x](https://www.instagram.com/onepiece_0x/) |
 | 📧 Email | [usingh0811@gmail.com](mailto:usingh0811@gmail.com) |
 | 🌐 Live Project | [echoesofnow.in](https://echoesofnow.in) |
